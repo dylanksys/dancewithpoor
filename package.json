@@ -1,0 +1,12 @@
+{
+  "name": "scaredd",
+  "description": "dancing with the poor",
+  "author": "dylanksys",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dylanksys/dancewithpoor"
+  },
+  "dependencies": {
+    "express": "4.13.4"
+  }
+}
